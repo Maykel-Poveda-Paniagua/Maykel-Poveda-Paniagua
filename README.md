@@ -68,7 +68,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=93&section=footer&reversal=false&text=%E2%80%9CA%20veces%20tienes%20que%20correr%20antes%20de%20poder%20caminar.%E2%80%9D%20-%20Tony%20Stark&fontSize=13&fontColor=FFA&fontAlign=78&fontAlignY=90&stroke=-&strokeWidth=0&animation=fadeIn&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=93&section=footer&reversal=false&text=%E2%80%9CA%20veces%20tienes%20que%20correr%20antes%20de%20poder%20caminar.%E2%80%9D%20-%20Tony%20Stark&fontSize=12&fontColor=FFA&fontAlign=78&fontAlignY=90&stroke=-&strokeWidth=0&animation=fadeIn&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
