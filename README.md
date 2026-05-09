@@ -1,16 +1,16 @@
 <div align="center">
-  <img height="150" src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif?raw=true"  />
+  <img height="250" src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif?raw=true"  />
 </div>
 
 ###
 
-<h1 align="center">¡Hola! ¿Qué tal?</h1>
+<h1 align="left">¡Hola! ¿Qué tal? 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  Sobre mí</h3>
+<h4 align="left">👩‍💻  Sobre mí</h4>
 
 ###
 
@@ -30,20 +30,20 @@
 
 ###
 
-<h3 align="left">🛠️ Tecnologías que he manejado</h3>
+<h2 align="left">🛠️ Tecnologías que he manejado</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css logo"  />
 </div>
 
 ###
@@ -54,33 +54,27 @@
 
 ###
 
-<h3 align="left">🤵 Contactos</h3>
+<h2 align="left">🤵 Contactos</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maykel-jordan-poveda-paniagua-74abb9387" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/myke_poveda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
   <a href="https://t.me/poveda_myke" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
 </div>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=93&section=footer&reversal=false&text=%E2%80%9CA%20veces%20tienes%20que%20correr%20antes%20de%20poder%20caminar.%E2%80%9D%20-%20Tony%20Stark&fontSize=13&fontColor=FFA&fontAlign=78&fontAlignY=90&stroke=-&strokeWidth=0&animation=fadeIn&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
