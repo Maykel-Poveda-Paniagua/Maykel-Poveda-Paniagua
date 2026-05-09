@@ -16,7 +16,7 @@
   <a href="https://t.me/poveda_myke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="26" alt="telegram logo"  />
   </a>
-  <a href="mailto:povedamaykel@gmail.com" target="_blank">
+  <a href="mailto:povedamaykel@gmail.com?subject=Contacto%20desde%20mi%20pagina" class="btn">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="26" alt="gmail logo"  />
   </a>
 </div>
