@@ -1,42 +1,73 @@
-# Hola, soy Maykel 👋
+<div align="center">
+  <img height="191" src="https://i.pinimg.com/736x/9f/41/d4/9f41d4b49c31510857cd97cf4dfcd1e6.jpg" />
+</div>
+###
  
-Estudiante de Ingeniería en Computación · **Instituto Tecnológico de Costa Rica** · 2° año
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+</div>
+<h2 align="center">Hola, soy Maykel Jordan 👋</h2>
+ 
+<p align="center">
+  Estudiante de Ingeniería en Computación · <strong>Instituto Tecnológico de Costa Rica</strong> · Sede Limón · 2° año
+</p>
+###
  
 ---
  
 ## Sobre mí
  
-- 🎓 Estudiando en el **TEC** (Tecnológico de Costa Rica)
-- 🌱 Aprendiendo y construyendo desde Limón
-- 💡 Interesado en resolver problemas con código
+- 🎓 Estudiando en el **TEC** — Sede del Atlántico, Limón
+- 💻 Apasionado por resolver problemas con código
+- 🌱 Actualmente aprendiendo estructuras de datos y POO
 - 🚀 En constante aprendizaje
 ---
  
-## 🛠️ Tecnologías que he manejado
+## 🛠️ Tecnologías que manejo
  
-**Lenguajes**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+</div>
+---
  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 📌 Proyectos destacados
  
-**Herramientas**
- 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Proyecto 1](https://github.com/tuusuario/proyecto1) | Breve descripción | Python |
+| [Proyecto 2](https://github.com/tuusuario/proyecto2) | Breve descripción | C++, Java |
+| [Proyecto 3](https://github.com/tuusuario/proyecto3) | Breve descripción | HTML, CSS |
  
 ---
  
 ## 📬 Contacto
  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:povedamaykel@gamil.com.cr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maykel-jordan-poveda-paniagua-74abb9387)
+<div align="left">
+  <a href="https://www.linkedin.com/in/maykel-jordan-poveda-paniagua-74abb9387" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="17" alt="linkedin" />
+  </a>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="29" height="17" alt="discord" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="29" height="17" alt="gmail" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="29" height="17" alt="facebook" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="17" alt="instagram" />
+</div>
+###
  
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
+</div>
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=grey" alt="visitas" />
-</p>
