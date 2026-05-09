@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h4 align="left">👩‍💻  Sobre mí</h4>
+<h2 align="left">👩‍💻  Sobre mí</h2>
 
 ###
 
@@ -21,12 +21,6 @@
 ###
 
 <p align="left">- 🎓 Estudiante de Ingeniería en Computación<br>- 🌱 Aprendiendo y construyendo desde Limón, Costa Rica<br>- 💡 Interesado en el desarrollo de software y resolución de problemas<br>- 🚀 Siempre buscando mejorar mis habilidades<br>- ☕ Sobreviviendo a la universidad un commit a la vez</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
