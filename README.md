@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🛠️ Tecnologías que he manejado</h3>
+<h3 align="left"> Tecnologías que he manejado</h3>
 
 ###
 
