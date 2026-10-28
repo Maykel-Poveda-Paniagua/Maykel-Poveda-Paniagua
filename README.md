@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">- 🎓 Estudiante de Ingeniería en Computación<br>-  Interesado en el desarrollo de software y resolución de problemas<br>-  Siempre buscando mejorar mis habilidades<br>-  Sobreviviendo a la universidad un commit a la vez</p>
+<p align="left">- Estudiante de Ingeniería en Computación<br>-  Interesado en el desarrollo de software y resolución de problemas<br>-  Siempre buscando mejorar mis habilidades<br>-  Sobreviviendo a la universidad un commit a la vez</p>
 
 ###
 
