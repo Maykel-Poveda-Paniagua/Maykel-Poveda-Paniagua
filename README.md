@@ -29,17 +29,17 @@
 
 ###
 
-<h1 align="left">¡Hola! ¿Qué tal? 👋</h1>
+<h1 align="left">¡Hola! ¿Qué tal? </h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  Sobre mí</h3>
+<h3 align="left"> Sobre mí</h3>
 
 ###
 
-<p align="left">- 🎓 Estudiante de Ingeniería en Computación<br>- 🌱 Aprendiendo y construyendo desde Limón, Costa Rica<br>- 💡 Interesado en el desarrollo de software y resolución de problemas<br>- 🚀 Siempre buscando mejorar mis habilidades<br>- ☕ Sobreviviendo a la universidad un commit a la vez</p>
+<p align="left">- 🎓 Estudiante de Ingeniería en Computación<br>-  Interesado en el desarrollo de software y resolución de problemas<br>-  Siempre buscando mejorar mis habilidades<br>-  Sobreviviendo a la universidad un commit a la vez</p>
 
 ###
 
